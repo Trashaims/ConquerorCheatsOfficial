@@ -1,0 +1,13 @@
+{
+  "updated": "2026-10-30",
+  "patches": [
+    {
+      "id": "patch-4.6.1",
+      "name": "BGMI 4.6 Patch",
+      "version": "0.0.1",
+      "size": -1,
+      "file": "patches/game_patch_4.6.1.21585.pak",
+      "notes": "Test patch"
+    }
+  ]
+}
