@@ -1,0 +1,13 @@
+{
+  "updated": "2026-10-30",
+  "patches": [
+    {
+      "id": "PatchVersion0.1",
+      "name": "BGMi 4.6",
+      "version": "0.0.1",
+      "size": 478.12k,
+      "file": "patches/egame_patch_4.6.1.21585.pak",
+      "notes": "Replace with your real patch"
+    }
+  ]
+}
